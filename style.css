@@ -1,0 +1,58 @@
+header{
+
+background-image: url('img/images.jpg');
+    background-color: blue;
+    margin-right: 200px;
+    margin-bottom: 0px;
+    height: 200px;
+    width: 100%;
+    
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 0px;
+}
+img{
+
+    margin: 0;
+    margin-left: 0px;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    border: 2px solid black;
+
+}
+h1{
+
+    margin-left: 550px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    color: aliceblue;
+
+}
+h2{
+
+    margin-top: 50px;
+    margin-left: 0px;
+}
+h3{
+
+    margin-left: 0px;
+
+}
+p{
+
+    margin-left: 0px;
+    font-size: 14px;
+
+}
+footer{
+
+    display: flex;
+}
+button{
+
+    margin-left: 0px;
+
+}
